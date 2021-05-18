@@ -19,8 +19,8 @@ p{
     font-size: medium;
 }
 .clearfix{
-    font-family: initial;
-    font-variant: small-caps;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
     font-weight: lighter;
 }
 .nav-item{
