@@ -1,4 +1,7 @@
-
+img{
+    height: 500px;
+    width: 500px;
+}
 h1{
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
