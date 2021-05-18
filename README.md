@@ -1,2 +1,3 @@
 # Coding-1-Final
  These are the starter files for S2021 Coding 1
+This website is my final exam project. This website shows how much I have learned in this class. While showing how much I learned I also talked about my family and I. In the about page talk about myself, mentioning thing such as the school I go to and how I have two older brothers. I also mentioned my dream job which is to become and FBI agent. In the contact page you can find multiple ways to contact me. There are a few pictures that are me and my friends. I chose these pictures because the people in them are my closest friends that I have gained this past year.
