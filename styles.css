@@ -7,11 +7,7 @@ h1{
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
 }
-p{
-    font-family: fantasy;
-    font-weight: normal;
-    font-size: small;
-}
+
 .list-group-item{
     font-weight: lighter;
     font-family: sans-serif;
