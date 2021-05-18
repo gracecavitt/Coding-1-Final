@@ -1,8 +1,4 @@
-img{
-    height: 700px;
-    width: 500px;
-    border: azure;
-}
+
 h1{
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
@@ -22,9 +18,4 @@ p{
     font-weight: lighter;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
-}
-.navbar-brand{
-    height: 20px;
-    width: 20px;
-    border: beige;
 }
